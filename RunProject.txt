@@ -1,0 +1,15 @@
+- Cài Đặt Nodejs
+- Run in cmd:
+	+ npm i react-axios
+	+ npm install bootstrap
+	+ npm install react-icons
+	+ npm i react-youtube
+	+ npm i movie-trailer
+- Deploy using Firebase
+	+ Create project on Firebase 
+	+ Firebase login => Y
+	+ Firebase init => Choose hosting => Use an existing project 
+	=> Choose project created at Step 1 => build 
+	=> y (rewrite all urls to /index.html)
+	+ npm run build
+	+ firebase deploy

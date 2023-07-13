@@ -1,0 +1,40 @@
+.main-footer {
+    color: #808080;
+    font-size: 15px;
+    background-color: #111;
+    padding-top: 4em;
+    position: relative;
+    bottom: 0;
+    width: 96%;
+}
+.list-unstyled li a {
+    color: white;
+    font-size: 30px;
+    margin-right: 5px;
+  }
+
+  /* .main-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    flex: 1;
+  }
+  
+  .col-md {
+    flex: 1;
+  }
+  
+  .col-sm {
+    flex: 1;
+    text-align: center;
+  } */
